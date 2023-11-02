@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danielsdgg" alt="danielsdgg" /></a> </p>
 
-- 🌱 I’m currently learning **Angular, TypeScript**
+- 🌱 I’m currently learning **Angular, TypeScript, Firebase**
 
 - 💬 Ask me about **React, Python, Javascript, Html, css, Flask, Fastapi**
 
 - 📫 How to reach me **gathigidg26@gmail.com**
 
-- ⚡ Fun fact **I think i'm un-intentionally funny**
+- ⚡ Fun fact **I'm un-intentionally funny**
 
 <p align="left">
 </p>
