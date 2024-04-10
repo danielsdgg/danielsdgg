@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel Muiruri</h1>
-<h3 align="center">A motivated and ambitious software engineer</h3>
+<h3 align="center">A diligent software engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielsdgg&label=Profile%20views&color=0e75b6&style=flat" alt="danielsdgg" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Angular and TypeScript**
 
-- 💬 Ask me about **React, Python, Javascript, Html, css, Flask, Fastapi**
+- 💬 Ask me about **React, Python, Javascript, Html, Flask, Fastapi**
 
 - 📫 How to reach me **gathigidg26@gmail.com**
 
