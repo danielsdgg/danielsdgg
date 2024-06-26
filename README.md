@@ -9,7 +9,11 @@
 
 - 💬 Ask me about **React, Python, Javascript, Html, Flask, Fastapi**
 
+- I am looking to collaborate on my fashions App (https://github.com/danielsdgg/Fashions-App.git)
+
 - 📫 How to reach me **gathigidg26@gmail.com**
+
+- See my portfolio https://danielmuiruri.netlify.app/
 
 - ⚡ Fun fact **I'm un-intentionally funny**
 
