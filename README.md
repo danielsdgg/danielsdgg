@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danielsdgg" alt="danielsdgg" /></a> </p>
 
-- 🌱 I’m currently learning **Angular and TypeScript**
+- 🌱 I’m currently learning **Angular and NextJS**
 
 - 💬 Ask me about **React, Python, Javascript, Html, Flask, Fastapi**
 
