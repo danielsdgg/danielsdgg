@@ -7,7 +7,7 @@
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=danielsdgg" alt="danielsdgg" />
+    <img src="https://github-profile-trophy.vercel.app/?username=danielsdgg&theme=onedark" alt="danielsdgg" />
   </a> 
 </p>
 
@@ -23,13 +23,17 @@
 
 ---
 
-### 📊 WakaTime Stats:
+### 📊 GitHub Readme Stats:
 
-![WakaTime](https://wakatime.com/badge/user/waka_0a76569b-e7d7-4a34-9ff4-931972af9212/projects.svg)
+![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=danielsdgg&show_icons=true&theme=radical)
+
+### 📈 GitHub Activity Graph:
+
+![Daniel's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=danielsdgg&theme=react-dark)
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
@@ -62,6 +66,19 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielsdgg&show_icons=true&locale=en&layout=compact" alt="danielsdgg" /></p>
+## 🛠️ Projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danielsdgg&show_icons=true&locale=en" alt="danielsdgg" /></p>
+### [Lumify Cyber Homepage](https://github.com/danielsdgg/lumify-cyber)
+- **Description:** A responsive homepage built with React and Tailwind CSS for Lumify Cyber.
+- **Technologies:** React, TypeScript, TailwindCSS, Flask
+- **Live Demo:** [Visit](https://lumify-cyber.netlify.app/)
+
+---
+
+## 📫 Get in Touch
+
+- **Email:** gathigidg26@gmail.com
+- **LinkedIn:** [Daniel Muiruri](https://www.linkedin.com/in/danielmuiruri/)
+- **Portfolio:** [danielmuiruri.netlify.app](https://danielmuiruri.netlify.app/)
+
+---
