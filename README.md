@@ -23,12 +23,9 @@
 
 ---
 
-<h3 align="left">📊 WakaTime Stats:</h3>
+### 📊 WakaTime Stats:
 
-<!-- WakaTime integration -->
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=danielsdgg&layout=compact" alt="Daniel's WakaTime Stats" />
-</p>
+![WakaTime](https://wakatime.com/share/@danielsdgg/@1234567890abcdef.svg)
 
 ---
 
@@ -68,4 +65,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielsdgg&show_icons=true&locale=en&layout=compact" alt="danielsdgg" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danielsdgg&show_icons=true&locale=en" alt="danielsdgg" /></p>
-
