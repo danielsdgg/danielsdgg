@@ -13,10 +13,11 @@
 
 - 🌱 I’m currently learning **Angular and NextJS**
 
-- 💬 Ask me about **React, Python, Javascript, Typescript, HTML, Flask, FastAPI, TailwindCSS**
+- 💬 Ask me about **React, Python, JavaScript, TypeScript, HTML, Flask, FastAPI, TailwindCSS**
 
-- 📫 How to reach me: **gathigidg26@gmail.com**, - **LinkedIn:** [Daniel Muiruri](https://www.linkedin.com/in/danielmuiruri/)
-
+- 📫 How to reach me:
+  - **Email:** [gathigidg26@gmail.com](mailto:gathigidg26@gmail.com)
+  - **LinkedIn:** [Daniel Muiruri](https://www.linkedin.com/in/danielmuiruri/)
 
 - 🌐 See my portfolio: [My Portfolio](https://danielmuiruri.netlify.app/)
 
@@ -24,11 +25,13 @@
 
 ---
 
-### 📊 GitHub Readme Stats:
+### 📊 GitHub Stats:
 
 ![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=danielsdgg&show_icons=true&theme=radical)
 
+### 📈 Top Languages:
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielsdgg&layout=compact&theme=radical)
 
 ---
 
