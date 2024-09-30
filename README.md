@@ -25,7 +25,7 @@
 
 ### 📊 WakaTime Stats:
 
-![Daniel's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=danielsdgg)
+![WakaTime](https://wakatime.com/badge/user/waka_0a76569b-e7d7-4a34-9ff4-931972af9212/projects.svg)
 
 ---
 
