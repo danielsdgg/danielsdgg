@@ -17,7 +17,7 @@
 
 - 📫 How to reach me:
   - **Email:** [gathigidg26@gmail.com](mailto:gathigidg26@gmail.com)
-  - **LinkedIn:** [Daniel Muiruri](https://www.linkedin.com/in/danielmuiruri/)
+  - **LinkedIn:** [Daniel Muiruri]([https://www.linkedin.com/in/danielmuiruri/](https://www.linkedin.com/in/daniel-muiruri-541a701a3/))
 
 - 🌐 See my portfolio: [My Portfolio](https://danielmuiruri.netlify.app/)
 
