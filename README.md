@@ -15,7 +15,8 @@
 
 - 💬 Ask me about **React, Python, Javascript, Typescript, HTML, Flask, FastAPI, TailwindCSS**
 
-- 📫 How to reach me: **gathigidg26@gmail.com**
+- 📫 How to reach me: **gathigidg26@gmail.com**, - **LinkedIn:** [Daniel Muiruri](https://www.linkedin.com/in/danielmuiruri/)
+
 
 - 🌐 See my portfolio: [My Portfolio](https://danielmuiruri.netlify.app/)
 
@@ -27,9 +28,7 @@
 
 ![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=danielsdgg&show_icons=true&theme=radical)
 
-### 📈 GitHub Activity Graph:
 
-![Daniel's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=danielsdgg&theme=react-dark)
 
 ---
 
@@ -68,17 +67,9 @@
 
 ## 🛠️ Projects
 
-### [Lumify Cyber Homepage](https://github.com/danielsdgg/lumify-cyber)
-- **Description:** A responsive homepage built with React and Tailwind CSS for Lumify Cyber.
-- **Technologies:** React, TypeScript, TailwindCSS, Flask
-- **Live Demo:** [Visit](https://lumify-cyber.netlify.app/)
-
----
-
-## 📫 Get in Touch
-
-- **Email:** gathigidg26@gmail.com
-- **LinkedIn:** [Daniel Muiruri](https://www.linkedin.com/in/danielmuiruri/)
-- **Portfolio:** [danielmuiruri.netlify.app](https://danielmuiruri.netlify.app/)
+### [Real Estate]((https://gethomes.netlify.app/))
+- **Description:** A responsive homepage built with React and Tailwind CSS for Real estate project.
+- **Technologies:** React, TypeScript, TailwindCSS
+- **Live Demo:** [Visit]((https://gethomes.netlify.app/))
 
 ---
