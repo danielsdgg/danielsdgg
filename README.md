@@ -64,12 +64,3 @@
 </p>
 
 ---
-
-## 🛠️ Projects
-
-### [Real Estate]((https://gethomes.netlify.app/))
-- **Description:** A responsive homepage built with React and Tailwind CSS for Real estate project.
-- **Technologies:** React, TypeScript, TailwindCSS
-- **Live Demo:** [Visit]((https://gethomes.netlify.app/))
-
----
