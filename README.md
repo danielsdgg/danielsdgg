@@ -27,7 +27,6 @@
 
 ![Daniel's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=danielsdgg)
 
-
 ---
 
 <h3 align="left">Languages and Tools:</h3>
