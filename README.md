@@ -21,7 +21,7 @@
 
 - 🌐 See my portfolio: [My Portfolio](https://danielmuiruri.netlify.app/)
 
-- ⚡ Fun fact: **I'm unintentionally funny**
+- ⚡ Fun fact: **I am hardworking**
 
 ---
 
