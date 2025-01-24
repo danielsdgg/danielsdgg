@@ -11,7 +11,7 @@
   </a> 
 </p>
 
-- 🌱 I’m currently learning **Angular and NextJS**
+- 🌱 I’m currently working on a **Learning Management System**
 
 - 💬 Ask me about **React, Python, JavaScript, TypeScript, HTML, Flask, FastAPI, TailwindCSS**
 
