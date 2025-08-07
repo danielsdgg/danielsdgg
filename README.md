@@ -10,8 +10,7 @@
 ### 🚧 Currently Working On
 
 🧠 A **Learning Management System** to enhance online education  
-💬 Ask me about:  
-React, Python, JavaScript, TypeScript, Flask, FastAPI, TailwindCSS
+💬 Ask me about:  React, JavaScript, TypeScript, Python, Flask, FastAPI, TailwindCSS
 
 ---
 
@@ -52,9 +51,9 @@ React, Python, JavaScript, TypeScript, Flask, FastAPI, TailwindCSS
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI"/>
   </a>
   <!-- TailwindCSS -->
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+<!--   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" alt="TailwindCSS"/>
-  </a>
+  </a> -->
   <!-- HTML5 -->
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
