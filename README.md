@@ -32,7 +32,7 @@ React, Python, JavaScript, TypeScript, Flask, FastAPI, TailwindCSS
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/></a>
   <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40" alt="Flask" /></a>
   <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://api.iconify.design/simple-icons/fastapi.svg" width="40" height="40" alt="FastAPI"/></a>
-    <a href="https://tailwindcss.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" alt="TailwindCSS"/></a>
+    <a href="https://tailwindcss.com/" target="_blank"><img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkPUgP02RtVwtnlFEP3vtmLeIet2_47xxQH27WR05j0WdJgiX-PXJKLMska_mSUui3go8&usqp=CAU)" width="40" height="40" alt="TailwindCSS"/></a>
   <a href="https://www.w3schools.com/html/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/></a>
   <a href="https://www.sqlite.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite"/></a>
