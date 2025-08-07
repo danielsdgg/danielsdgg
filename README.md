@@ -1,69 +1,68 @@
-<h1 align="center">Hi 👋, I'm Daniel Muiruri</h1>
-<h3 align="center">A Fullstack Software Developer</h3>
+<h1 align="center">👋 Hi, I'm Daniel Muiruri</h1>
+<h3 align="center">💻 Fullstack Software Developer | 🚀 Passionate about building impactful solutions</h3>
 
-<p align="left"> 
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=danielsdgg&label=Profile%20views&color=0e75b6&style=flat" alt="danielsdgg" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=danielsdgg&theme=onedark" alt="danielsdgg" />
-  </a> 
-</p>
+---
 
-- 🌱 I’m currently working on a **Learning Management System**
+### 🚧 Currently Working On
 
-- 💬 Ask me about **React, Python, JavaScript, TypeScript, HTML, Flask, FastAPI, TailwindCSS**
-
-- 📫 How to reach me:
-  - **Email:** [gathigidg26@gmail.com](mailto:gathigidg26@gmail.com)
-  - **LinkedIn:** [Daniel Muiruri](https://www.linkedin.com/in/daniel-muiruri-541a701a3/)
-
-- 🌐 See my portfolio: [My Portfolio](https://danielmuiruri.netlify.app/)
-
-- ⚡ Fun fact: **I am hardworking**
+🧠 A **Learning Management System** to enhance online education  
+💬 Ask me about:  
+React, Python, JavaScript, TypeScript, Flask, FastAPI, TailwindCSS
 
 ---
 
-### 📊 GitHub Stats:
+### 📫 Contact Me
 
-![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=danielsdgg&show_icons=true&theme=radical)
-
-### 📈 Top Languages:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielsdgg&layout=compact&theme=radical)
+- 📧 Email: [gathigidg26@gmail.com](mailto:gathigidg26@gmail.com)  
+- 💼 LinkedIn: [Daniel Muiruri](https://www.linkedin.com/in/daniel-muiruri-541a701a3/)  
+- 🌐 Portfolio: [danielmuiruri.netlify.app](https://danielmuiruri.netlify.app/)
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a> 
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a> 
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-  </a>
+### 🛠️ Languages & Tools
+
+<p align="center">
+  <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/></a>
+  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40" alt="Flask" /></a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://user-images.githubusercontent.com/33580722/179359371-ec4c2a54-1a3f-4038-9f1b-92a50f9b2e6a.png" width="40" height="40" alt="FastAPI"/></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" alt="TailwindCSS"/></a>
+  <a href="https://www.w3schools.com/html/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/></a>
+  <a href="https://www.sqlite.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite"/></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" alt="Bash"/></a>
 </p>
 
 ---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=danielsdgg&theme=darkhub&no-frame=true&title=Stars,Followers,Commit,Repositories" alt="trophies"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=danielsdgg&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+### 📈 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielsdgg&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+### ⚡ Fun Fact
+
+💡 I’m a highly motivated developer who never backs down from a challenge!
