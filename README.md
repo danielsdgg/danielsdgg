@@ -18,7 +18,7 @@
 
 - 📧 Email: [gathigidg26@gmail.com](mailto:gathigidg26@gmail.com)  
 - 💼 LinkedIn: [Daniel Muiruri](https://www.linkedin.com/in/daniel-muiruri-541a701a3/)  
-- 🌐 Portfolio: [danielmuiruri.netlify.app](https://danielmuiruri.netlify.app/)
+- 🌐 Portfolio: [danielmuiruri.vercel.app](https://danielmuiruri.vercel.app/)
 
 ---
 
