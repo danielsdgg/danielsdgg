@@ -10,7 +10,7 @@
 ### 🚧 Currently Working On
 
 🧠 A **Learning Management System** to enhance online education  
-💬 Ask me about:  React, JavaScript, TypeScript, Python, Flask, FastAPI, TailwindCSS
+💬 Ask me about:  React, Nextjs, JavaScript, TypeScript, Python, Flask, FastAPI, TailwindCSS
 
 ---
 
