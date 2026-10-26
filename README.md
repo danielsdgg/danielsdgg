@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://danielmuiruri.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-danielmuiruri.vercel.app-0e75b6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/daniel-muiruri-541a701a3/"><img src="https://img.shields.io/badge/LinkedIn-Daniel%20Muiruri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:danieldeploys@gmail.com"><img src="https://img.shields.io/badge/Email-danieldeploys@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:gathigidg26@gmail.com"><img src="https://img.shields.io/badge/Email-gathigidg26@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
@@ -57,7 +57,6 @@ Stack: Next.js · TypeScript · Python · Tailwind CSS
 | **Highlights** | A single `people` model with typed members and friends, separate registration, payment, attendance and feedback tables, QR check-in with non-guessable public tokens, a bulk importer that cleans messy Excel lists, and httpOnly-cookie JWT admin auth with CSRF protection. |
 | **Stack** | Python · Flask · Flask-JWT-Extended · Next.js · TypeScript · Tailwind CSS |
 
-> Add `[View code](https://github.com/danielsdgg/<repo>)` and `[Live demo](...)` links under each project.
 
 ---
 
@@ -108,6 +107,6 @@ Stack: Next.js · TypeScript · Python · Tailwind CSS
 
 I'm open to full-time or part-time software developer roles, on-site, hybrid or remote.
 
-- Email: [danieldeploys@gmail.com](mailto:danieldeploys@gmail.com)
+- Email: [gathigidg26@gmail.com](mailto:gathigidg26@gmail.com)
 - LinkedIn: [Daniel Muiruri](https://www.linkedin.com/in/daniel-muiruri-541a701a3/)
 - Portfolio: [danielmuiruri.vercel.app](https://danielmuiruri.vercel.app/)
